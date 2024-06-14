@@ -28,10 +28,12 @@ fevereiro de 2024 - Presente
 ### Finch
 **Analista Desenvolvedor Back-end**  
 março de 2023 - Presente
-- Equipe na transição de Kafka para NATS e reestruturação para arquitetura de microsserviços.
+- Presente na equipe na transição de Kafka para NATS e reestruturação para arquitetura de microsserviços.
 - Aplicação do ecossistema Spring Boot no projeto, antes apenas Spring MVC.
 - Implementação de soluções com Docker e Kubernetes para escalabilidade e implantação simplificada.
-- Migração de infraestrutura para AWS e desenvolvimento de melhorias em ReactJS.
+- Migração de infraestrutura para AWS e desenvolvimento de melhorias em ReactJS no frontend.
+- Desenvolvimento de queries complexas usando SQL em SQL Server e Postgres.
+- Responsável pelo board de sustentação que cuida dos bugs e débitos
 
 ### FinanBank Consultoria Financeira
 **Arquiteto de Software**  
